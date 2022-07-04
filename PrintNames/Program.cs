@@ -16,7 +16,8 @@ namespace PrintNames
                 "Matus Benus",
                 "Stavri Benedikty",
                 "Peter Truchly",
-                "Mia Fiolekova"
+                "Mia Fiolekova",
+                "Andrej Mezovsky"
             };
 
             foreach (var name in listOfNames)
